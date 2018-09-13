@@ -1,0 +1,8 @@
+Code-Review+2: Emilien Macchi <emilien@redhat.com>
+Workflow+1: Sam Doran <sdoran@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 13 Sep 2018 21:01:21 +0000
+Reviewed-on: https://review.openstack.org/585093
+Project: openstack/ansible-role-tripleo-octavia
+Branch: refs/heads/master
