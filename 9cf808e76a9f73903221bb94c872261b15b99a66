@@ -1,0 +1,10 @@
+Code-Review+1: brandon zhao <zhaolong@inspur.com>
+Code-Review+2: Emilien Macchi <emilien@redhat.com>
+Code-Review+2: Alex Schultz <aschultz@redhat.com>
+Workflow+1: Alex Schultz <aschultz@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 03 Jan 2019 21:18:53 +0000
+Reviewed-on: https://review.openstack.org/614417
+Project: openstack/ansible-role-tripleo-octavia
+Branch: refs/heads/master
