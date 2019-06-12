@@ -1,29 +1,3 @@
-# TripleO octavia#
+This project is no longer maintained.
 
-A role to manage octavia tasks for TripleO
-
-## Role Variables ##
-
-**Variables used for octavia**
-
-| Name              | Default Value       | Description          |
-|-------------------|---------------------|----------------------|
-| | | |
-
-
-## Requirements ##
-
- - ansible >= 2.4
- - python >= 2.6
-
-## Dependencies ##
-
-None
-
-## Example Playbooks ##
-
-
-
-## License ##
-
-Apache 2.0
+The contents of this repository are still available in the Git source code management system. To see the contents of this repository before it reached its end of life, please check out the previous commit with git
