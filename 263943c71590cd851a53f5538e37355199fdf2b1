@@ -1,0 +1,8 @@
+Code-Review+2: Alex Schultz <aschultz@redhat.com>
+Workflow+1: Alex Schultz <aschultz@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 13 Jun 2019 15:02:28 +0000
+Reviewed-on: https://review.opendev.org/664911
+Project: openstack/ansible-role-tripleo-octavia
+Branch: refs/heads/master
